@@ -1,2 +1,2 @@
 # OpenGL_Assignment1
-This is An assignment that we had to implement which basically is a character moves horizontally and vertically ,obstacles ,powerups ,and collectables
+This is An assignment that we had to implement which basically is a character moves horizontally and vertically but not diagonally that faces couple of obstacles which located randomly that once the character hits looses life points and has  4 chances  also it has collectables to increase the points that they collected and power ups one to stop time for 10 seconds and one to increase speed for 10 seconds and of course once he reaches to the prize they win if the time ended they lose
